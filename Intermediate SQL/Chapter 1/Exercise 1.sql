@@ -19,3 +19,29 @@ select distinct country from films;
 -- Count the distinct countries from the films table
 
 select count(distinct country) as count_distinct_countries from films;
+
+-- Debug this code
+SELECT certfication
+FROM films
+         LIMIT 5;
+
+SELECT certification
+FROM films
+         LIMIT 5;
+
+-- Debug this code
+SELECT film_id imdb_score num_votes
+FROM reviews;
+
+SELECT film_id, imdb_score, num_votes
+FROM reviews;
+
+-- Debug this code
+SELECT COUNNT(birthdate) AS count_birthdays
+FROM peeple;
+
+-- Debug this code
+SELECT COUNT(birthdate) AS count_birthdays
+FROM people;
+
+
