@@ -28,3 +28,17 @@ This repository features DataCamp's SQL courses designed to help you master SQL 
 - Data presentation with rounding and aliasing
 
 Explore the courses to enhance your SQL proficiency.
+
+## Joining Data in SQL
+
+**Course Link**: [Joining Data in SQL](https://app.datacamp.com/learn/courses/joining-data-in-sql)
+
+**Summary**: Elevate your data querying skills with our Joining Data course. Discover the power of combining information from separate tables to create meaningful results. Dive into the world of SQL and unlock the potential of table joins and relational set theory.
+
+**Topics Covered**:
+- Multi-table data joining in SQL
+- Mastering inner joins, outer joins, and cross joins
+- Harnessing the potential of set theory, featuring unions, intersections, and except clauses
+- Crafting complex nested queries
+
+Explore the courses to enhance your SQL proficiency.
