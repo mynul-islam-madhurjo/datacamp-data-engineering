@@ -1,0 +1,3 @@
+text
+numeric
+char(5)
