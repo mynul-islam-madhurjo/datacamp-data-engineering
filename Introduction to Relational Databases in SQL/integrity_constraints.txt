@@ -1,0 +1,8 @@
+Attribute Constraints:
+-Data types on Columns
+
+Key Constraints:
+-primary keys
+
+Referential integrity constraints:
+-foreign keys
