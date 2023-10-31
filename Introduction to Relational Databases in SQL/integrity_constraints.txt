@@ -1,5 +1,12 @@
 Attribute Constraints:
 -Data types on Columns
+text = character string of any length
+varchar[ (x) ] = a maximum of x characters
+char [ (x) ] = a fixed length string of x characters
+boolean = can only take true,false or null
+date,time and timestamp = various formats for date adn time calculation
+numeric(3,2) = arbitrary precision numbers like 3.14
+integer = whole numbers in the range of -2147483648 and +2147483648
 
 Key Constraints:
 -primary keys
