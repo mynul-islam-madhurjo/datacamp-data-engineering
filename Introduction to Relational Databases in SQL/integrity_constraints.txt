@@ -10,6 +10,7 @@ integer = whole numbers in the range of -2147483648 and +2147483648
 
 Key Constraints:
 -primary keys
+Surrogate keys are artificial pk
 
 Referential integrity constraints:
 -foreign keys
