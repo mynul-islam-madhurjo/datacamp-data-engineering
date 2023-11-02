@@ -14,3 +14,8 @@ Surrogate keys are artificial pk
 
 Referential integrity constraints:
 -foreign keys
+Foreign key points to the pk of another table
+We implement relationships with foreign keys.
+
+n to 1 -> one connected table has fk
+n to m -> both connected table has fks
