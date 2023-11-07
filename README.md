@@ -42,3 +42,17 @@ Explore the courses to enhance your SQL proficiency.
 - Crafting complex nested queries
 
 Explore the courses to enhance your SQL proficiency.
+
+## Introduction to Relational Databases in SQL
+
+**Course Link**: [Introduction to Relational Databases in SQL](https://app.datacamp.com/learn/courses/introduction-to-relational-databases-in-sql)
+
+**Summary**: This course covers advanced database concepts, including data modeling, table creation, integrity enforcement, and nested queries.
+
+**Topics Covered**:
+- Creating tables using SQL queries with CREATE, RENAME, DROP, and INSERT statements.
+- Exploring data types like text, varchar, char, boolean, date, time, timestamp, integer, numeric, null, and unique constraints.
+- Creating tables with ADD CONSTRAINT PRIMARY KEY and ensuring uniqueness and non-null values.
+- Establishing relationships using foreign keys and understanding ON DELETE CASCADE actions.
+
+Explore the courses to enhance your SQL proficiency.
