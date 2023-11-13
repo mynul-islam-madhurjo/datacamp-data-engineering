@@ -1,0 +1,21 @@
+Normalization
+- No data redundancy/Save Storage
+- Data consistency/Accurate Data
+- Easy to extend
+- Safer update, remove and insert
+
+- Longer join
+- More tables
+- Slow
+- More CPU power
+
+- Example - OLTP(Operational Databases)
+
+Denormalization
+- Smaller joins
+- Less tables
+- Faster Read queries
+
+- Data Redundancy
+
+- Example - OLAP(Data warehouse)
